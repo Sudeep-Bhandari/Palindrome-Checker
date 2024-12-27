@@ -24,4 +24,4 @@ A Python program to check whether a given string is a palindrome. This simple ye
 Clone the repository:
 ```bash
 
-git clone https://github.com/your-username/palindrome-checker.git
+git clone https://github.com/Sudeep-Bhandari/Palindrome-Checker.git
